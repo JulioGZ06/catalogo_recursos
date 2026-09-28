@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "Introducción a Python",
+        "tipo": "Libro",
+        "tema": "Programación",
+        "nivel": "Básico",
+        "autor_fuente": "Editorial Académica"
+    },
+    {
+        "id": 2,
+        "titulo": "Estructuras de Datos",
+        "tipo": "Documento",
+        "tema": "Estructura de datos",
+        "nivel": "Intermedio",
+        "autor_fuente": "Universidad de León"
+    }
+]

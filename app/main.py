@@ -1,0 +1,1 @@
+print("Proyecto Catálogo de Recursos Académicos")
