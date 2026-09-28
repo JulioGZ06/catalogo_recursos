@@ -14,5 +14,13 @@
         "tema": "Estructura de datos",
         "nivel": "Intermedio",
         "autor_fuente": "Universidad de León"
+    },
+    {
+        "id": 3,
+        "titulo": "Introducción a Git y GitHub",
+        "tipo": "Curso",
+        "tema": "Control de versiones",
+        "nivel": "Básico",
+        "autor_fuente": "GitHub"
     }
 ]
