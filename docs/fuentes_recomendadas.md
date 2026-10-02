@@ -1,5 +1,7 @@
 # Fuentes recomendadas de recursos académicos
 
+Agregadas por: Jonathan Rafa Villalobos Ramirez 
+
 Estas plataformas permiten buscar artículos, libros y otros materiales útiles para el estudio y la investigación:
 
 * [Google Académico](https://scholar.google.com/): buscador de literatura académica, como artículos, tesis, libros y citas.
