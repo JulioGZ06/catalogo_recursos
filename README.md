@@ -74,3 +74,10 @@ python app/main.py
 ## Próximas mejoras
 
 En futuras versiones se podrían agregar funciones para buscar, filtrar, actualizar y eliminar recursos académicos. También se podría mejorar la interfaz y organizar los recursos de acuerdo con diferentes criterios.
+
+
+
+
+
+
+ACTUALIZA README BRO 
