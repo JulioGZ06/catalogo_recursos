@@ -8,6 +8,17 @@ Este proyecto es un catálogo de recursos académicos que permite organizar info
 
 El objetivo es crear una estructura inicial para administrar recursos académicos de manera organizada, permitiendo posteriormente agregar, consultar y clasificar diferentes recursos.
 
+## Tipos de recursos
+
+El catálogo puede incluir diferentes materiales académicos, como:
+
+* **Libro:** material de consulta o estudio sobre uno o varios temas.
+* **Artículo:** publicación académica o científica sobre un tema específico.
+* **Curso:** conjunto de lecciones o actividades para aprender una materia o habilidad.
+* **Video:** material audiovisual con contenido educativo.
+* **Página web:** sitio con información o materiales de consulta académica.
+* **Documento:** apuntes, guías u otros materiales digitales de apoyo.
+
 ## Estructura general
 
 ```text
@@ -63,3 +74,10 @@ python app/main.py
 ## Próximas mejoras
 
 En futuras versiones se podrían agregar funciones para buscar, filtrar, actualizar y eliminar recursos académicos. También se podría mejorar la interfaz y organizar los recursos de acuerdo con diferentes criterios.
+
+
+
+
+
+
+ACTUALIZA README BRO 
