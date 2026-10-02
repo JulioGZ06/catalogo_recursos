@@ -32,3 +32,19 @@ Indica el nivel académico para el que está dirigido el recurso. Por ejemplo:
 ## 4. Autor o fuente
 
 Permite identificar quién creó el recurso o de dónde proviene. Puede ser una persona, institución, universidad o plataforma educativa.
+
+## 5. Idioma
+
+Indica el idioma en que está disponible el recurso. Por ejemplo:
+
+* Español
+* Inglés
+* Portugués
+
+## 6. Disponibilidad de acceso
+
+Señala las condiciones necesarias para consultar el recurso. Por ejemplo:
+
+* Acceso abierto
+* Requiere registro
+* Requiere suscripción o pago
